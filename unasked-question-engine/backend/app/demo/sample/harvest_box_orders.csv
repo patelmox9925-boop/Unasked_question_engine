@@ -1,0 +1,10 @@
+order_id,customer,amount,status,region
+1001,Ann Lee,42.50,shipped,North
+1002,Bob Ray,,pending,South
+1003,,19.99,shipped,North
+1004,Dee Park,18000.00,shipped,East
+1005,Eli Stone,-35.00,refunded,West
+1006,Fay Moss,42.50,shipped,North
+1006,Fay Moss,42.50,shipped,North
+1007,Gus Hall,38.20,delivered,
+1008,Hal Cruz,44.00,shipped,South
